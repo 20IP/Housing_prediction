@@ -1,5 +1,5 @@
-# Advange Regression. Housing predict Price
-> Advanced modeling application with Lasso and Ridge regression to predict house prices.
+# Advanced Regression
+> Research and apply techniques learned in ML2 to analyze use advanced regression model with lasso and ridge to predict house price.
 
 
 ## Table of Contents
@@ -10,7 +10,7 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- - Applying analysis technology based on simple Regression to Advange Regression as Lasso and Ridge. To find the right solution, the right attributes. Make strategic recommendations to increase bike rental revenue in seasons, months and other conditions
+- - Applying analysis technology based on Simple Regresion to advanced Model Regression Use Lasso and Ridge
 
 ## Technologies Used
 Pandas version :		 1.4.2
